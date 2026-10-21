@@ -1,176 +1,207 @@
-# 🎨 Livro de Colorir da Amora
-### 🌱 Colorindo ideias, descobrindo direitos e transformando o mundo digital!
+# Passatempo da Amora
+### Colorir, brincar, questionar e transformar o mundo digital!
 
-**Aprender também é poder! 💜**
+**Aprender também é poder!**
 
-Bem-vindos ao **Livro de Colorir da Amora**, um material educativo, lúdico e gratuito que convida crianças a explorar o mundo digital com criatividade, curiosidade e pensamento crítico.
+Bem-vindos ao **Passatempo da Amora**, uma iniciativa educativa e gratuita do **Momentos de Amora**, que aproxima temas como cidadania digital, inteligência artificial, cibersegurança, acessibilidade e inclusão do universo infantil.
 
-Aqui, cada desenho é uma oportunidade para **colorir, perguntar, conversar e descobrir novos caminhos**.
+O projeto nasceu como um **Livro de Colorir da Amora**, com ilustrações que convidavam as crianças a refletir sobre situações do cotidiano digital.
 
-Afinal, a internet também é um espaço onde as crianças têm voz, direitos e muito a ensinar!
+Mas a ideia cresceu!
 
-**💜 Um oferecimento de Momentos de Amora.**
+Agora, além das páginas para colorir, o projeto também reúne **jogos, desafios e atividades de passatempo**, tornando a aprendizagem ainda mais divertida, participativa e acessível.
 
----
-
-## 🌈 Sobre o projeto
-
-O Livro de Colorir da Amora nasceu do desejo de aproximar temas importantes da tecnologia e da cidadania digital do universo infantil.
-
-Nossa personagem, **Amora**, vive situações que muitas crianças conhecem: mensagens inesperadas, jogos digitais, vídeos recomendados, dúvidas sobre inteligência artificial, conflitos na internet e descobertas sobre seus direitos.
-
-Mas existe algo especial neste livro: **nem todas as histórias têm respostas prontas!**
-
-As crianças são convidadas a observar as cenas, imaginar possibilidades, compartilhar experiências e construir respostas coletivamente.
-
-Inspirado na perspectiva pedagógica de **Paulo Freire**, o projeto valoriza a escuta, o diálogo, a curiosidade e a participação das crianças como sujeitos capazes de compreender e transformar sua realidade.
-
-> 💬 "A internet também é nossa! Vamos aprender a cuidar dela juntos?"
+O material é pensado especialmente para crianças de **4 a 10 anos**, com diferentes níveis de dificuldade e possibilidades de mediação por familiares e educadores.
 
 ---
 
-## 🖍️ O que vamos colorir e descobrir?
+## Sobre o projeto
 
-| Tema | Nossa pergunta |
+Inspirado na pedagogia de **Paulo Freire**, o Passatempo da Amora parte de uma ideia fundamental: aprender não é apenas receber respostas, mas também observar, perguntar, dialogar e construir conhecimento coletivamente.
+
+Nossa personagem principal, **Amora**, e sua turma diversa e inclusiva convidam as crianças a explorar o mundo digital por meio de experiências próximas da sua realidade.
+
+Aqui, brincar também é uma forma de aprender sobre direitos, respeito, segurança, participação e justiça.
+
+**Mais do que ensinar crianças a usar a tecnologia, queremos incentivá-las a compreender, questionar e transformar o mundo digital.**
+
+---
+
+## O que você encontra no Passatempo da Amora?
+
+### 1. Livro de Colorir
+
+Ilustrações com situações do cotidiano infantil envolvendo tecnologia, internet e direitos digitais.
+
+Os desenhos apresentam cenas abertas à interpretação, com balões de pensamento e espaços para que as crianças expressem suas próprias ideias.
+
+### 2. Caça-palavras
+
+Atividades para descobrir palavras e aprender conceitos relacionados a:
+
+- Ciberdemocracia e cidadania digital
+- Inclusão digital e acessibilidade
+- Viés e racismo algorítmico
+- Cibersegurança
+- Inteligência artificial ética e responsável
+
+### 3. Jogos dos 7 Erros
+
+Desafios de observação em cenas envolvendo a Amora e sua turma, abordando cidadania digital e cibersegurança.
+
+### 4. Cruzadinhas
+
+Atividades com pistas simples para descobrir palavras relacionadas à inclusão, ao uso responsável da inteligência artificial e aos cuidados no ambiente digital.
+
+### 5. Criptografia e mensagens secretas
+
+Jogos com símbolos e letras para decifrar pequenas mensagens sobre respeito, participação, direitos digitais e tecnologia justa.
+
+### 6. Labirintos
+
+Ajude Amora a encontrar caminhos relacionados à inclusão digital e à navegação segura na internet.
+
+### 7. Alfabeto da Tecnologia
+
+Uma atividade ilustrada de A a Z para apresentar palavras do universo tecnológico, como Aplicativo, Binário, Computador, Dados, Internet, Robô e Senha.
+
+### 8. Vamos Ligar?
+
+Atividades de associação entre palavras e imagens de elementos tecnológicos, como celular, tablet, computador, câmera e outros objetos do cotidiano.
+
+### 9. Ligue os Pontos
+
+Desafios numéricos simples para descobrir desenhos relacionados à tecnologia e depois colori-los.
+
+**Todas as atividades incentivam a curiosidade, a criatividade e a aprendizagem de forma lúdica.**
+
+---
+
+## Temas abordados
+
+| Tema | O que queremos conversar? |
 |---|---|
-| 📸 Minha foto, minha escolha | Quem pode compartilhar minha imagem? |
-| ⏰ Combinados das telas | Que combinados ajudam nossa família? |
-| 🌐 Internet para todos | Todo mundo consegue acessar a internet? |
-| 💜 Tecnologia que inclui | Como a tecnologia pode ajudar cada pessoa? |
-| 🔎 Por que isso apareceu? | Quem escolheu esse vídeo para mim? |
-| 🏫 Direito de saber | O que podemos conhecer sobre nossa escola? |
-| 🤖 A IA também erra | Será que a inteligência artificial sempre acerta? |
-| 🔐 Cibersegurança | Posso confiar nessa mensagem? |
-| 💬 Cyberbullying | Como nossas palavras afetam outras pessoas? |
-
-Essas perguntas são convites para pensar. Não precisamos encontrar todas as respostas de uma vez!
-
----
-
-## 📚 Como usar o livro?
-
-### 👧 Para as crianças
-
-1. **Escolha um desenho:** qual história chamou sua atenção?
-2. **Solte a imaginação:** use suas cores favoritas!
-3. **Observe os detalhes:** o que está acontecendo na cena?
-4. **Complete os balões:** o que os personagens poderiam dizer ou pensar?
-5. **Converse:** o que você faria nessa situação?
-
-**✨ Aqui, sua opinião importa!**
-
-### 👩‍🏫 Para educadores e famílias
-
-O livro pode ser utilizado em escolas, bibliotecas, espaços comunitários, oficinas e momentos de conversa em família.
-
-Inspirada na pedagogia freireana, a proposta parte das experiências das crianças e organiza a conversa em quatro movimentos:
-
-**1. Observar — O que está acontecendo?**
-
-Convide as crianças a descrever a cena sem antecipar interpretações.
-
-**2. Questionar — Por que isso acontece?**
-
-Explore sentimentos, dúvidas, conflitos, direitos e diferentes pontos de vista.
-
-**3. Relacionar — Isso faz parte da nossa vida?**
-
-Aproxime as situações representadas das experiências das crianças, respeitando quem não quiser compartilhar algo pessoal.
-
-**4. Transformar — O que podemos fazer juntos?**
-
-Construa possibilidades de ação coletiva, cuidado, participação e transformação.
-
-O objetivo não é transmitir respostas prontas, mas criar oportunidades para que as crianças **pensem, dialoguem e participem das decisões que envolvem suas vidas digitais**.
+| Ciberdemocracia | Como participar e fazer nossa voz ser ouvida? |
+| Cidadania digital | Quais são nossos direitos e responsabilidades na internet? |
+| Inclusão digital | Todas as pessoas conseguem acessar a tecnologia? |
+| Acessibilidade | Como tornar a tecnologia melhor para todas as pessoas? |
+| Inteligência artificial | Como a IA funciona e por que ela pode errar? |
+| Viés e racismo algorítmico | A tecnologia pode tratar pessoas de maneira injusta? |
+| Cibersegurança | Como reconhecer riscos e proteger nossas informações? |
+| Cyberbullying | Como nossas palavras podem afetar outras pessoas? |
+| Privacidade | Quem pode acessar e compartilhar nossas informações? |
+| Algoritmos | Por que determinados vídeos e conteúdos aparecem para nós? |
+| Direito à informação | O que podemos saber sobre nossa escola e comunidade? |
+| Uso consciente das telas | Como construir combinados coletivamente? |
 
 ---
 
-## 🌱 Educação inspirada em Paulo Freire
+## Como utilizar o material?
 
-Neste projeto, as ilustrações funcionam como **codificações**: representações de situações do cotidiano que despertam perguntas e reflexões.
+### Para as crianças
 
-Os desenhos não precisam apresentar uma solução definitiva.
+1. Escolha uma atividade.
+2. Separe seus lápis de cor.
+3. Observe, descubra, desenhe e brinque.
+4. Converse sobre o que aprendeu.
+5. Compartilhe suas ideias com amigos, familiares e educadores.
 
-Um balão vazio pode se transformar em uma pergunta. Uma expressão de dúvida pode abrir uma conversa. Uma mensagem inesperada pode provocar muitas interpretações.
+**Aqui, não precisamos saber todas as respostas. Fazer perguntas também faz parte da brincadeira!**
 
-A criança deixa de ser apenas alguém que recebe informações e passa a ser protagonista na construção do conhecimento.
+### Para famílias e educadores
 
-**Colorir é o começo. Dialogar é o caminho. Transformar é a possibilidade.**
+As atividades podem ser utilizadas em escolas, bibliotecas, projetos sociais, oficinas, rodas de conversa e momentos em família.
 
----
+A proposta pedagógica valoriza quatro movimentos inspirados na educação dialógica:
 
-## 📥 Como acessar o material?
+**Observar:** O que está acontecendo nesta atividade?
 
-O material pode ser disponibilizado gratuitamente neste repositório para download, impressão e utilização em atividades educativas.
+**Questionar:** Por que isso acontece? Todas as pessoas são tratadas da mesma forma?
 
-**Para começar:**
+**Relacionar:** Já vivemos ou conhecemos alguma situação parecida?
 
-1. Acesse a seção de arquivos deste repositório.
-2. Abra o livro de colorir em PDF, quando disponível.
-3. Baixe o arquivo.
-4. Imprima as páginas desejadas ou explore as imagens digitalmente.
-5. Compartilhe as perguntas e reflexões com outras crianças!
+**Transformar:** O que podemos fazer para construir uma internet mais justa, segura e inclusiva?
 
-💡 **Dica:** os desenhos foram pensados para serem coloridos, mas também podem ser utilizados em rodas de conversa, produção de histórias e atividades coletivas.
-
----
-
-## ♿ Acessibilidade e inclusão
-
-Acreditamos que aprender sobre tecnologia é um direito de todas as crianças.
-
-Por isso, incentivamos práticas que respeitem diferentes formas de participação, comunicação e aprendizagem.
-
-O material pode ser explorado por meio de leitura compartilhada, descrição oral das imagens, debates, criação de histórias e adaptações às necessidades de cada grupo.
-
-**Uma tecnologia verdadeiramente democrática é aquela que não deixa ninguém de fora.**
+O objetivo não é apenas concluir uma atividade, mas também estimular conversas significativas.
 
 ---
 
-## 🤝 Compartilhe suas ideias!
+## Educação, diversidade e inclusão
 
-Este projeto também é um convite à participação.
+Amora não está sozinha nessa aventura!
 
-Educadores, famílias, pesquisadores e comunidades podem contribuir com sugestões de atividades, perguntas e novos temas para futuras edições.
+Sua turma representa diferentes experiências, características e formas de viver e aprender.
 
-Se você utilizou o livro em alguma atividade educativa, compartilhe suas experiências e sugestões por meio das *Issues* do repositório.
+As ilustrações procuram valorizar a diversidade étnico-racial, pessoas com deficiência e diferentes necessidades de acessibilidade.
 
-**Atenção:** não publique nomes, fotografias, relatos pessoais identificáveis ou outros dados de crianças sem as devidas autorizações.
+Acreditamos que **a tecnologia deve ser construída com todas as pessoas e para todas as pessoas**.
 
----
-
-## 📜 Licença e utilização
-
-Este material tem finalidade educativa e foi desenvolvido para incentivar a cidadania digital infantil.
-
-A proposta é favorecer seu acesso gratuito em contextos educacionais e comunitários.
-
-**As condições de reprodução, adaptação, redistribuição e uso comercial devem seguir a licença indicada neste repositório.**
+As atividades podem ser adaptadas conforme a faixa etária, o nível de alfabetização e as necessidades de cada criança.
 
 ---
 
-## 💜 Momentos de Amora
+## Como baixar?
 
-O **Livro de Colorir da Amora** é um oferecimento de **Momentos de Amora**.
+O material está disponível gratuitamente neste repositório.
 
-Um convite para aprender com afeto, imaginação, diálogo e compromisso com uma sociedade mais justa, inclusiva e democrática.
+**Acesse:**
 
-### 🌈 Uma mensagem da Amora
+https://github.com/momentosdeamora/passatempo_da_amora
 
-"Oi! Eu sou a Amora! 💜
+Você pode baixar os arquivos disponíveis, imprimir as atividades e utilizá-las em propostas educativas não comerciais, conforme as condições da licença do projeto.
 
-Adoro descobrir coisas novas, fazer perguntas e aprender com meus amigos.
-
-Você sabia que também temos direitos na internet?
-
-Pegue seus lápis de cor e venha descobrir comigo!
-
-**Porque criança também pensa, participa e transforma o mundo!**"
+Para crianças menores ou em processo de alfabetização, recomendamos a participação de um adulto na leitura das instruções.
 
 ---
 
-**🎨 Livro de Colorir da Amora**
+## Inspiração pedagógica
 
-**💜 Momentos de Amora**
+A proposta dialoga com a pedagogia de Paulo Freire, especialmente com a valorização da experiência, da escuta, do diálogo e da problematização da realidade.
 
-*Colorir. Questionar. Dialogar. Transformar.*
+Nas páginas de colorir, as imagens funcionam como **codificações**: situações que despertam perguntas e permitem diferentes interpretações.
+
+Nos passatempos, o desafio é ampliar o repertório das crianças e criar oportunidades para que palavras, símbolos e brincadeiras se transformem em conversas sobre o mundo digital.
+
+A aprendizagem acontece quando a atividade ultrapassa o papel e encontra a vida cotidiana.
+
+---
+
+## Licença
+
+Este projeto é disponibilizado sob a licença **Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional (CC BY-NC-SA 4.0)**.
+
+Você pode compartilhar e adaptar o material, desde que:
+
+- Atribua os créditos ao projeto Momentos de Amora.
+- Não utilize o material para fins comerciais.
+- Distribua adaptações sob a mesma licença ou uma compatível.
+
+Consulte o arquivo [LICENSE.md](LICENSE.md) para mais informações.
+
+A licença se aplica aos conteúdos cujos direitos permitem seu licenciamento.
+
+---
+
+## Contribua com o projeto
+
+O Passatempo da Amora é uma iniciativa aberta à colaboração e à construção coletiva.
+
+Sugestões de novas atividades, temas, melhorias de acessibilidade e experiências pedagógicas são bem-vindas.
+
+Você pode contribuir utilizando as *Issues* do repositório.
+
+Ao compartilhar experiências com crianças, preserve sempre sua privacidade e seus dados pessoais.
+
+---
+
+## Momentos de Amora
+
+O **Passatempo da Amora** é um oferecimento do **Momentos de Amora**, uma iniciativa que acredita no potencial da educação, da tecnologia e do diálogo para promover inclusão, participação e transformação social.
+
+O que começou com alguns desenhos para colorir se transformou em uma coleção de atividades que pretende continuar crescendo, acompanhando as perguntas, as descobertas e a imaginação das crianças.
+
+**Porque a cidadania digital também se aprende brincando!**
+
+### Colorir. Brincar. Questionar. Dialogar. Transformar.
+
+**Momentos de Amora — Aprender também é poder!**
